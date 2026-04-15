@@ -1,7 +1,7 @@
 # SST-6809
 MC6809 Single Board Computer
 # NOTE! This board is DEPRECATED, do not build
-## flash ROM based version available soon
+## flash ROM based version 2.3 available soon
 
 ![stplus](https://github.com/KenWillmott/SST-6809/assets/17345651/b1b0577b-7dc4-4cc8-a207-0306ce1a3011)
 
